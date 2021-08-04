@@ -1,1 +1,1 @@
-# cbk-gitcoin-taks
+# ckb-gitcoin-tasks
