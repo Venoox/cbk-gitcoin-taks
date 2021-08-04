@@ -2,7 +2,7 @@
 
 This task involved creating a Layer 1 testnet address, getting the private key and using it to deposit to Layer 2.
 
-Layer 1 testnet address explorer: https://explorer.nervos.org/aggron/address/ckt1qyqt85m4edarkynrdgzxzfvjz8rlphmafttssne4t5
+Layer 1 testnet address explorer: https://explorer.nervos.org/aggron/address/ckt1qyqv6jhgx5jrwhyd8tueqem3ed29gu3zrwzsayurt3
 
 ### Account list from ckb-cli
 
