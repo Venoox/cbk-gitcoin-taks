@@ -1,0 +1,1 @@
+Link to the transaction ID created by sudt-cli: https://explorer.nervos.org/aggron/transaction/0x67a5b56418250927700a314f5e1b4497657269d267ae7d39269ef1a5107a6041
