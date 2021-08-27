@@ -8,6 +8,9 @@ I had some issues with nervos-godwoken-integration so I followed danielkmak's ad
 After that I couldn't interact with the contract and didn't receive any errors and after some conversation with danielkmak on Discord server, I found out that godwoken testnet has issues with reverting contract methods and my issue was that I was storing eth addresses instead of polyjuice addresses in the contract. After I fixed that it wasn't better so I thought something is wrong with `block.timestamp` and after disabling the part of contract checking timestamp, everything worked!
 I also disabled the part checking if you are a registered voter so you can test this app without deploying the contract yourself.
 
+Original dApp: https://github.com/Venoox/decentralized-voting-app/tree/main
+Ported dApp: https://github.com/Venoox/decentralized-voting-app/tree/godwoken
+
 Video proof:
 
 https://user-images.githubusercontent.com/21956707/131161119-38176a93-f60c-4894-9a75-788a1dd58b47.mp4
