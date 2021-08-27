@@ -9,6 +9,7 @@ After that I couldn't interact with the contract and didn't receive any errors a
 I also disabled the part checking if you are a registered voter so you can test this app without deploying the contract yourself.
 
 Original dApp: https://github.com/Venoox/decentralized-voting-app/tree/main
+
 Ported dApp: https://github.com/Venoox/decentralized-voting-app/tree/godwoken
 
 Video proof:
